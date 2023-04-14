@@ -1,4 +1,4 @@
-class swiftai < Formula
+class Swiftai < Formula
   desc "A Swift CLI implementation of the OpenAI API"
   homepage ""
   url "https://github.com/janodevorg/SwiftAI/archive/refs/tags/1.0.1.tar.gz"
