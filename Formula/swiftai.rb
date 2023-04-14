@@ -1,10 +1,10 @@
 class SwiftAICli < Formula
   desc "A Swift CLI implementation of the OpenAI API"
   homepage ""
-  url "https://github.com/janodevorg/SwiftAI/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "6ba2c8d26b02469865817f1e39c3396d8f71970251845207286801135e798aff"
+  url "https://github.com/janodevorg/SwiftAI/archive/refs/tags/1.0.1.tar.gz"
+  sha256 "d7268370f63d131966de75dfe57bd184fecee8aed4929dd1735ded90d5de8299"
   license "MIT"
-  version "0.0.1"
+  version "1.0.1"
   def install
     bin.install "swiftai"
   end
